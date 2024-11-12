@@ -1,0 +1,54 @@
+.filme1 {
+  color: palevioletred;
+}
+.filme2 {
+  color: aquamarine;
+}
+.filme3 {
+  color: palevioletred;
+}
+.filme11 {
+  color: aquamarine;
+}
+.filme22 {
+  color: palevioletred;
+}
+.filme33 {
+  color: palevioletred;
+}
+a {
+  color: yellowgreen;
+  text-decoration: none;
+}
+
+p {
+  font-size: 20px;
+}
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  background: pink;
+  color: rgb(34, 5, 48);
+}
+
+div {
+  background: aquamarine;
+  width: 140px;
+  height: 80;
+  padding: 30;
+  border: 10px solid #111;
+  margin: 30px;
+}
+body {
+  margin: 0px;
+}
+
+h1 {
+  background-color: yellowgreen;
+  padding: 20px;
+  border: 4px solid #d371e0;
+  margin: 30;
+  width: 140;
+}
